@@ -15,6 +15,8 @@ At 180° → Servo rotates fully.
 
 Circuit Diagram
 
+![Servo Motor Circuit Diagram](Servo%20motor.png)
+
 Output Demo
 
 Code Used
